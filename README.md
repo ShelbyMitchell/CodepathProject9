@@ -30,7 +30,7 @@ Vulnerability #2: __________________
 
 ## Red
 
-Vulnerability #1: __________________
+Vulnerability #1: XSS Attack when creating a new country for the staff users, Watch [Here](https://github.com/ShelbyMitchell/CodepathProject9/blob/master/Exploit%231RedXSS.gif)
 
 Vulnerability #2: __________________
 
