@@ -23,7 +23,7 @@ Vulnerability #2: __________________
 
 ## Green
 
-Vulnerability #1: __________________
+Vulnerability #1: Username Enumeration when trying to log in. If the username input is valid, the text will not be bolded. Watch
 
 Vulnerability #2: __________________
 
